@@ -1,13 +1,17 @@
 {
   "name": "what-is-my-workspace",
   "displayName": "WhatIsMyWorkspace",
-  "publisher": "n-antimatter",
+  "publisher": "antimatter",
   "repository": {"url": "https://github.com/n-antimatter/what-is-my-workspace-vscode"},
   "description": "Be reminded which workspace you are in when switching VSCode windows! Prevent big oofs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.74.0"
   },
+  "bugs": {
+    "email": "nchin.nc@gmail.com"
+  },
+  "icon": "assets/icon.jpg",
   "categories": [
     "Other"
   ],

@@ -6,7 +6,9 @@ For example you are working across multiple repositories and didn't realise you 
 
 ## Features
 
-When you focus on a new window, a 1 second 'popup' will open telling you in large text what workspace you are currently on.
+When you focus on a new window, a 1 second 'popup' will open forcing you to see in large text which workspace you are currently on.
+
+![Demo](assets/demo.gif)
 
 ## Feedback
 
